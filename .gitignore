@@ -1,32 +1,10 @@
-# Système
-.DS_Store
-Thumbs.db
-
-# Environnements virtuels Python
-venv/
-.env
-__pycache__/
-*.pyc
-
-# Node
+# .gitignore par défaut pour un projet Node.js
 node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# IDEs
-.vscode/
-.idea/
-
-# Build
+.env
+.DS_Store
 dist/
 build/
-
-# Logs
-logs/
-*.log
-
-# Secrets
-.env.local
-.env.*.local
-
+coverage/

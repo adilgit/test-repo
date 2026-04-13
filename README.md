@@ -1,8 +1,3 @@
 # test-repo
 
-Dépôt initialisé avec un README minimal.
-
-Contenu :
-- README de base
-- .gitignore générique
-
+Ce dépôt a été initialisé avec un fichier README, un .gitignore et une licence MIT.
