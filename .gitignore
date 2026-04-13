@@ -1,9 +1,30 @@
-# Node.js
+# Node
 node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log*
 .env
-.DS_Store
-dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 coverage/
+.nyc_output/
+build/
+dist/
+.DS_Store
+.vscode/
+.idea/
+logs/
+*.log
+/tmp
+/out
+
+# Optional: OS files
+Thumbs.db
+ehthumbs.db
+*.swp
+*.swo
