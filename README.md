@@ -1,12 +1,8 @@
 # test-repo
 
-Dépôt de test initialisé.
+Dépôt initialisé avec un README minimal.
 
-## But
-Projet de démonstration / dépôt de départ.
+Contenu :
+- README de base
+- .gitignore générique
 
-## Installation
-Déposer ici les instructions d'installation.
-
-## Usage
-Décrire l'utilisation du projet.
